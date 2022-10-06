@@ -1,6 +1,6 @@
 git add --all
-TIMEOUT 5
+TIMEOUT 2
 git commit -m "commentaire"
-TIMEOUT 5
+TIMEOUT 2
 git push
-TIMEOUT 5
+TIMEOUT 2
